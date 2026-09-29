@@ -1,0 +1,32 @@
+{
+  "KODEX200": {
+    "currency": "KRW"
+  },
+  "USMV": {
+    "currency": "USD"
+  },
+  "QUAL": {
+    "currency": "USD"
+  },
+  "IEF": {
+    "currency": "USD"
+  },
+  "SGOV": {
+    "currency": "USD"
+  },
+  "KODEX_GOLD_H": {
+    "currency": "KRW"
+  },
+  "QQQ": {
+    "ticker": "QQQ",
+    "currency": "USD"
+  },
+  "SOXL": {
+    "ticker": "SOXL",
+    "currency": "USD"
+  },
+  "QQQM": {
+    "ticker": "QQQM",
+    "currency": "USD"
+  }
+}
